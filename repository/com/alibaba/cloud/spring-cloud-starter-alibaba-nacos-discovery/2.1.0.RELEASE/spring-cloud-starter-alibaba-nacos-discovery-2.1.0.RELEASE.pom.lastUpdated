@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Nov 15 15:04:44 CST 2020
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1605423653393
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1605423884000
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.alibaba.cloud\:spring-cloud-starter-alibaba-nacos-discovery\:pom\:2.1.0.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: Connection reset

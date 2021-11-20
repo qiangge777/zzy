@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Nov 15 17:10:56 CST 2020
+log4j-bom-2.12.1.pom>central=
+log4j-bom-2.12.1.pom>alimaven=
+log4j-bom-2.12.1.pom>public=
